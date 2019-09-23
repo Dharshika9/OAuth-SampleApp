@@ -9,3 +9,6 @@ A sample application that demonstrates how to authorize using OAuth 2.0 to acces
 1. Build the project using `mvn clean install`
 2. Run using `mvn spring-boot:run`
 3. The web application is accessible via `localhost:8080`
+
+## Author
+Dharshika Singarathnam (dharshikasingarathnam@gmail.com)
